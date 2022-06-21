@@ -30,7 +30,7 @@
         <slf4j.version>1.7.13</slf4j.version>
         <logback.version>1.2.0</logback.version>
         <json.version>20141113</json.version>
-        <mysql.version>8.0.16</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <junit.version>4.13.1</junit.version>
         <mysql.version>5.1.18</mysql.version>
         <commons.dbcp.version>1.4</commons.dbcp.version>
